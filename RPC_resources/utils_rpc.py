@@ -31,9 +31,9 @@ def send_message(Tag_Words_Input, input_message):
     server.starttls()
     server.ehlo()
     # this password is generated with "google app passwords"
-    from_mail = 'zedzastro@gmail.com'
-    to_mail = 'zedzastro@gmail.com'
-    password = 'dnbwmeqetwtpikai'
+    from_mail = '@gmail.com'
+    to_mail = '@gmail.com'
+    password = ''
     server.login(from_mail, password)
 
     # message
