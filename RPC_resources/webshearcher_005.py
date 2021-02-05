@@ -24,7 +24,6 @@ import csv
 import numpy as np
 
 import sys
-# sys.path.append('F:/Dropbox/Dir_simaoppcastro/Eng/Mestrado/1ano/RedesProtocolosComunicacao/Projecto/1test')
 
 import utils_rpc.py as ut
 
